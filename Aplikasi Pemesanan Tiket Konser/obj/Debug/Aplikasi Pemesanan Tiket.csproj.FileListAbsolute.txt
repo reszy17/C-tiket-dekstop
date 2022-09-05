@@ -1,0 +1,19 @@
+C:\Users\Andi\source\repos\Aplikasi Pemesanan Tiket Konser\obj\Debug\Aplikasi_Pemesanan_Tiket_Konser.Form1.resources
+C:\Users\Andi\source\repos\Aplikasi Pemesanan Tiket Konser\obj\Debug\Aplikasi_Pemesanan_Tiket_Konser.Petunjuk.resources
+C:\Users\Andi\source\repos\Aplikasi Pemesanan Tiket Konser\obj\Debug\Aplikasi_Pemesanan_Tiket_Konser.Properties.Resources.resources
+C:\Users\Andi\source\repos\Aplikasi Pemesanan Tiket Konser\obj\Debug\Aplikasi_Pemesanan_Tiket_Konser.Tiket.resources
+C:\Users\Andi\source\repos\Aplikasi Pemesanan Tiket Konser\obj\Debug\Aplikasi Pemesanan Tiket.csproj.GenerateResource.cache
+C:\Users\Andi\source\repos\Aplikasi Pemesanan Tiket Konser\obj\Debug\Aplikasi Pemesanan Tiket.csproj.CoreCompileInputs.cache
+C:\Users\Andi\source\repos\Aplikasi Pemesanan Tiket Konser\obj\Debug\Aplikasi Pemesanan Tiket Konser.exe
+C:\Users\Andi\source\repos\Aplikasi Pemesanan Tiket Konser\obj\Debug\Aplikasi Pemesanan Tiket Konser.pdb
+C:\Users\Andi\source\repos\Aplikasi Pemesanan Tiket Konser\bin\Debug\Aplikasi Pemesanan Tiket Konser.exe.config
+C:\Users\Andi\source\repos\Aplikasi Pemesanan Tiket Konser\bin\Debug\Aplikasi Pemesanan Tiket Konser.exe
+C:\Users\Andi\source\repos\Aplikasi Pemesanan Tiket Konser\bin\Debug\Aplikasi Pemesanan Tiket Konser.pdb
+C:\Users\Andi\source\repos\Aplikasi Pemesanan Tiket Konser\bin\Debug\MySql.Data.DLL
+C:\Users\Andi\source\repos\Aplikasi Pemesanan Tiket Konser\obj\Debug\Aplikasi Pemesanan Tiket.csproj.CopyComplete
+C:\Users\Andi\source\repos\Aplikasi Pemesanan Tiket Konser\bin\Debug\Renci.SshNet.Async.dll
+C:\Users\Andi\source\repos\Aplikasi Pemesanan Tiket Konser\bin\Debug\Renci.SshNet.dll
+C:\Users\Andi\source\repos\Aplikasi Pemesanan Tiket Konser\bin\Debug\Renci.SshNet.xml
+C:\Users\Andi\source\repos\Aplikasi Pemesanan Tiket Konser\bin\Debug\Renci.SshNet.Async.xml
+C:\Users\Andi\source\repos\Aplikasi Pemesanan Tiket Konser\obj\Debug\Aplikasi_Pemesanan_Tiket_Konser.Form2.resources
+C:\Users\Andi\source\repos\Aplikasi Pemesanan Tiket Konser\obj\Debug\Aplikasi_Pemesanan_Tiket_Konser.laporan.resources
